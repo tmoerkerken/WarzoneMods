@@ -1,0 +1,1 @@
+Simple diplomacy mod that enforces peace/diplomacy through diplomacy cards.
